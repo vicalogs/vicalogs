@@ -13,6 +13,7 @@
 **🧑‍💻 Solo Developer Product Builder**  
 
 **💻 Retail POS · E-commerce · SaaS · Business Automation**
+
 **🤖 AI Enthusiast**  
 
 I build software products for real business workflows.
