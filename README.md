@@ -1,16 +1,16 @@
 ## GitHub Stats
 
-<a href="https://github.com/niigelogs/niigelogs">
+<a href="https://github.com/niigelog">
 
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=niigelogs&count_private=true&show_icons=true&theme=radical" />
-
-</a>
-
-<a href="https://github.com/niigelogs">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niigelogs&layout=compact&langs_count=8&theme=radical" />
+  <img height="180" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=niigelog&show_icons=true&theme=radical" />
 
 </a>
 
+<a href="https://github.com/niigelog">
+
+  <img height="180" align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=niigelog&layout=compact&langs_count=8&theme=radical" />
+
+</a>
 ---
 
 # Hi, I'm Vica Zhuo 👋
