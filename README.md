@@ -6,8 +6,7 @@
 
 </a>
 
-<a href="https://github.com/niigelogs/niigelogs">
-
+<a href="https://github.com/niigelogs">
   <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niigelogs&layout=compact&langs_count=8&theme=radical" />
 
 </a>
