@@ -9,49 +9,67 @@
 
 <br/>
 
-# Hi there 👋, I'm Vica Zhuo!
+# Hi, I'm Vica Zhuo 👋
 
-## 🚀 About Me
+**Product-minded Full-Stack Engineer**  
 
-🧑‍💻 Solo Developer  
-💻 Next.js Artist  
-🤖 AI Enthusiast
+**Retail POS · E-commerce · SaaS · Business Automation**
 
-I'm building everyday tools for solo developers and sharing Next.js knowledge. - 专注开发独立开发者的日常工具，同时努力输出优质专业的 Next.js 知识。
+I build practical business systems that connect **technology, operations, and revenue**.
 
-## 🛠 Skills
-- **Frontend:** `React`, `Vue`, `Plasmo` and `Next.js`.
-- **Middleware:** `Redis`, `Kafka` and `RabbitMQ`.
-- **Backend:** `Nest.js`, `Koa`, `Express`, `ThinkPHP`, `Swoole`, `Django` and `Springboot`.
-- **Persistence:** `PostgreSQL`, `MySQL` and `MongoDB`.
-- **Search & Analytics:** `Elasticsearch`
+My work focuses on retail POS platforms, e-commerce integrations, internal operation systems, developer tools, and automation products. I care not only about clean code and system architecture, but also about whether a product can improve store efficiency, reduce operational cost, support business growth, and create measurable value.
 
-<a href="https://github.com/niigelogs/niigelogs" style="max-width:50%;" >
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niigelogs&layout=compact&langs_count=8">
-</a>
+Previously, I led and supported a global **Online POS platform used by 500+ retail stores**, covering payment, inventory, CRM, after-sales, reporting, barcode scanning, Shopify O2O workflows, and customer feedback systems.
 
-## 💡 My Products
+I enjoy turning complex business workflows into reliable, scalable, and user-friendly software products.
 
-- [**NEXTY.DEV - Best SaaS Boilerplate**](https://xxx.dev)
-- [**OG Image Generator**](https://xxx.com/)
-- [**nTab**](https://xxx.dev/)
-- [**Discover Best AI Tools**](https://xxxx.tools/)
-- [**Next.js 中文文档**](https://xxxx.org/)
-- [**Open Source**](https://github.com/niigelogs?tab=repositories)
-
-
-## 📫 Contact Me
-- **Email:** [contact@niigel.com](mailto:weijunext@gmail.com)
-- **Twitter(中文):** [@niigel](https://x.com/intent/follow?screen_name=weijunext)
-- **Twitter(En):** [@niigelog_dev](https://x.com/intent/follow?screen_name=judewei_dev)
-- **Github:** [Github](https://github.com/niigelog)  
-- **Blog:** [二哥日志](https://niigel.com.com/)
-- **中文开发者还可以通过以下渠道关注我:**
-  - **掘金:** [xxx](https://juejin.cn/user/26044008768029)
-  - **知乎:** [xxx](https://www.zhihu.com/people/mo-mo-mo-89-12-11)
-  - **即刻：**[xxxx](https://m.okjike.com/users/13EF1128-B51B-4D22-8B95-16BB406529F0)
-  - **微信公众号:** 「Niigelog 二哥日志」
-  - **微信交流群:** [全栈交流群](https://niigel/make-a-friend)
 ---
+
+## 💡 What I offer
+
+- [**Velo POS - Best SaaS POS**](https://pos.niigel.com/)
+
+## Tech Stack
+
+### Frontend
+
+`Vue.js` · `React` · `Next.js` · `TypeScript` · `JavaScript` · `Vite` · `Webpack` · `Tailwind CSS`
+
+### Backend
+
+`Node.js` · `NestJS` · `Express` · `REST API` · `GraphQL`
+
+### Database & Middleware
+
+`MySQL` · `PostgreSQL` · `Redis` · `Elasticsearch` · `Kafka` · `RabbitMQ`
+
+### Retail & E-commerce
+
+`POS Systems` · `Shopify Liquid` · `Shopify Admin API` · `CRM` · `Inventory` · `Payment Workflows` · `D365 Integration`
+
+### Cloud & DevOps
+
+`Docker` · `Kubernetes` · `Nginx` · `CI/CD` · `GitHub Actions` · `Alibaba Cloud` · `Linux`
+
+### Testing & Quality
+
+`Jest` · `Vitest` · `Cypress` · `Playwright` · `SonarQube`
+
+---
+
+## Contact
+
+- Email: [contact@niigel.com](mailto:contact@niigel.com)
+
+- GitHub: [[github.com/your-username](https://github.com/niigelogs)]
+
+- LinkedIn: [your-linkedin-url](https://linkedin.com/in/your-profile)
+
+- Blog: [Niigel's Solo Dev]
+
+---
+
+I am open to opportunities related to **Retail POS, E-commerce Systems, Full-Stack Engineering, and Cloud-based Business Applications**.
+
 
 I'm open to technical consultations regarding Next.js. Feel free to contact me!
