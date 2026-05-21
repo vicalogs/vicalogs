@@ -1,10 +1,18 @@
-<div style="overflow:hidden" class="weijunext">
-<a href="https://github.com/niigelogs/niigelogs" style="max-width:50%;" >
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=niigelogs&count_private=true&theme=radical" />
-</a>
-</div>
+## GitHub Stats
 
-<br/>
+<a href="https://github.com/niigelogs/niigelogs">
+
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=niigelogs&count_private=true&show_icons=true&theme=radical" />
+
+</a>
+
+<a href="https://github.com/niigelogs/niigelogs">
+
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niigelogs&layout=compact&langs_count=8&theme=radical" />
+
+</a>
+
+---
 
 # Hi, I'm Vica Zhuo 👋
 
