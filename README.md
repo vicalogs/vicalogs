@@ -1,7 +1,7 @@
 <div style="overflow:hidden" class="weijunext">
 
 <a href="https://github.com/vicalogs" style="max-width:50%;" >
-  <img height="200" align="center" src="https://github-readme-stats-nu-indol-75.vercel.app/api?username=vicalogs&count_private=true&theme=radical" />
+  <img height="200" align="center" src="https://github-readme-stats-delta-pink-59.vercel.app/api?username=vicalogs&count_private=true&theme=radical" />
 </a>
 </div>
 <br/>
