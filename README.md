@@ -43,6 +43,3 @@ Now I am exploring SaaS products, AI-assisted tools, business automation, and de
 ## 📫 Contact Me
 - **Email:** [contact@niigel.com](mailto:contact@niigel.com)
 ---
-
-I'm open to technical consultations regarding Next.js. Feel free to contact me!
-这是我github 的个人解释，我希望你能帮我优化一下，用人单位去浏览我的github 有一个好印象，你觉得应该怎么优化？
