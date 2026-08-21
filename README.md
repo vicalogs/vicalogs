@@ -27,7 +27,7 @@ Now I am exploring SaaS products, AI-assisted tools, business automation, and de
 ## 🛠 Skills
 - **Frontend:** `React`, `Vue`, `Plasmo` and `Next.js`.
 - **Middleware:** `Redis`, `Kafka` and `RabbitMQ`.
-- **Backend:** `Nest.js`, `Koa`, `Express`, `ThinkPHP`, `Swoole`, `Django` and `Springboot`.
+- **Backend:** `Java`, `Typescript` and `Python`.
 - **Persistence:** `PostgreSQL`, `MySQL` and `MongoDB`.
 - **Search & Analytics:** `Elasticsearch`
 
