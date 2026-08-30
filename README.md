@@ -35,9 +35,9 @@ Now I am exploring SaaS products, AI-assisted tools, business automation, and de
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niigelogs&layout=compact&langs_count=8">
 </a>
 
-## 💡 My Products
+## 💡 Side Project
 
-- [**Velo POS - Best SaaS SOO**](https://pos.niigel.com)
+- [**Payrank**](https://payrank.cc)
 
 
 ## 📫 Contact Me
