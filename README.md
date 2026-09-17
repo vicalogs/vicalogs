@@ -37,8 +37,8 @@ Now I am exploring SaaS products, AI-assisted tools, business automation, and de
 
 ## 💡 Side Project
 
+- [**ScanOps**](https://scanops.niigel.com)
 - [**Payrank**](https://payrank.cc)
-
 
 ## 📫 Contact Me
 - **Email:** [contact@niigel.com](mailto:contact@niigel.com)
